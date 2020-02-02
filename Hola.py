@@ -1,1 +1,0 @@
-pribt ("Hola txt")
